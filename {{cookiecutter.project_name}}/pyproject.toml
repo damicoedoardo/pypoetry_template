@@ -2,7 +2,7 @@
 name = "{{cookiecutter.project_name}}"
 version = "0.1.0"
 description = ""
-authors = ["{{cookiecutter.authors}}"]
+authors = ["{{cookiecutter.author}}"]
 
 [tool.poetry.dependencies]
 python = "^{{cookiecutter.min_python_version}}"
