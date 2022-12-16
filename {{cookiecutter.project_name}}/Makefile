@@ -1,4 +1,4 @@
-SRC_DIR		= {{cookiecutter.project_name}}
+SRC_DIR		= sec
 TEST_DIR	= tests
 CHECK_DIRS = $(SRC_DIR) $(TEST_DIR)
 DOCS_DIR 	= docs
